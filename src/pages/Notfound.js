@@ -7,10 +7,10 @@ function Notfound() {
   return (
     <Layout>
       <Helmet>
-        <title>404 - Chester React Personal Portfolio Template</title>
+        <title>404 - Devon React Personal Portfolio</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Not Found Page"
+          content="Devon React Personal Portfolio Not Found Page"
         />
       </Helmet>
       <div className="mi-about-area mi-section">

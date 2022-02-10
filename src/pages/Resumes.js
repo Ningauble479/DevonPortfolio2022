@@ -26,10 +26,10 @@ function Resumes() {
   return (
     <Layout>
       <Helmet>
-        <title>Resume - Chester React Personal Portfolio Template</title>
+        <title>Resume - Devon React Personal Portfolio</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Resume Page"
+          content="Devon React Personal Portfolio Resume Page"
         />
       </Helmet>
       <div className="mi-skills-area mi-section mi-padding-top">
